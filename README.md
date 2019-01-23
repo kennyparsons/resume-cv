@@ -16,6 +16,7 @@ Project Management professional with a background in information technology, bus
 ###### 2017 - 2018
 ###### Plano, TX
 • Responsible for conducting meetings with clients to determine project intent, requirements, and scope; translating technical specifications into detailed product requirements for the customers and stakeholders; and determining the project schedule, which includes the sequence of all installation and technical activities.
+
 • Created innovative and intuitive company software such as a data workflow and management tool, which increased efficiency and information accuracy. This tool is currently in use by nearly half of the department and has drastically improved individual effectiveness.
 • Implemented new workflows that consolidated, standardized, and improved the company processes and information, most of which were adopted by the COO in a collaborative effort and were issued in the SOP.
 • Supported cross-functional teams to achieve successful on-boarding, installation, and implementation of new customer telecom equipment.
