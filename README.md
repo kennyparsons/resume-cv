@@ -11,6 +11,12 @@ I specialize in solving problems through creative technology development.
 Project Management professional with a background in information technology, business and systems analysis, installation, and configuration. Detail-oriented Operations Analyst experienced in data reporting. Passionate about business optimization and workflow improvements. Ready to take on new professional challenges with a growth-oriented company.
 
 ## Work Experience
+
+#### Project Manager, Scrum Master
+###### Set Solutions, Inc.
+###### 2018 - Present
+###### Plano, TX
+
 #### Senior Project Manager
 ###### SpectrumVoIP
 ###### 2017 - 2018
