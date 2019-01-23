@@ -66,18 +66,28 @@ Project Management professional with a background in information technology, bus
 ###### 2015
 ###### Pensacola, FL
 
-Skills
+## Skills
 
 •	Advanced Excel skills
+
 •	Fully Microsoft Office proficient
+
 •	Visual Basic for Applications (VBA)
+
 •	Networking and Routing
+
 •	Telecom Switching
+
 •	Salesforce Objects and Reporting
 
 •	Strategic Consulting
+
 •	Operational Development (DevOps)
+
 •	Data Visualization
+
 •	Project management and implementation
+
 •	System and process analysis
+
 •	Additional Skills: SQL, HTML, Unix, Linux, VB Script
