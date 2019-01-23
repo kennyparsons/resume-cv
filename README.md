@@ -68,7 +68,7 @@ Project Management professional with a background in information technology, bus
 
 ## Skills
 
-•	Advanced Excel skills
+* Advanced Excel skills
 
 •	Fully Microsoft Office proficient
 
