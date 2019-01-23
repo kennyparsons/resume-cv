@@ -1,1 +1,2 @@
-# resume-cv
+# kenny parsons
+## personal brand
