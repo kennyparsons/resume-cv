@@ -1,10 +1,5 @@
 # kenny parsons
 
-### 3 levels
-#### 4 levels
-##### 5 Levels
-###### 6 levels
-
 ###### (574) 323-3244
 ###### kennyparsons93@gmail.com 
 ###### Dallas, TX 
@@ -12,7 +7,7 @@
 ## personal brand
 I specialize in solving problems through creative technology development.
 
-## Professional Summary
+## professional summary
 Project Management professional with a background in information technology, business and systems analysis, installation, and configuration. Detail-oriented Operations Analyst experienced in data reporting. Passionate about business optimization and workflow improvements. Ready to take on new professional challenges with a growth-oriented company.
 
 ## Work Experience
