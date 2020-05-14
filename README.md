@@ -26,6 +26,11 @@ Project Management professional with a background in information technology, bus
 ###### Set Solutions, Inc.
 ###### 2018 - Present
 ###### Plano, TX
+* Coordinates the execution of deliverables as defined by customer contracts and scope of work. 
+* Manages the technical resources used in each project, including in-house engineers, vendor-provided services, and third-party contractors. 
+* Pro-actively work with sales to coordinate and plan the project delivery.
+* Responsible for overall project governance, health, reporting, and on-time delivery. 
+
 
 #### Senior Project Manager
 ###### SpectrumVoIP
