@@ -12,6 +12,7 @@ Project Management professional with a background in information technology, bus
 
 ## Certifications
 * Cisco Certified Network Associate (CCNA) - Route and Switch
+* Palo Alto Networks Certified Network Security Associate (PCNSE)
 * Cisco Certified Entry Networking Technician (CCENT)
 * Splunk Core Certified User
 * Splunk Core Certified Power User
